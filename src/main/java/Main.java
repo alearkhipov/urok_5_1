@@ -3,7 +3,6 @@ import static java.lang.System.out;
 public class Main {
 
     public static void main(String[] args) {
-        //System.out.println("Нello");
 
         int x = 5;
         int y = 3;
